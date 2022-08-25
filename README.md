@@ -1,8 +1,8 @@
-# Highest-Paid-Athletes-Dashboard
+# Highest Paid Athletes Dashboard
 
 - Created by Fitria Dwi Wulandari
 
-- **Objective**:
+- **Objectives**:
   - Identify the athletes with the highest earnings over time.
   - Identify the top ten athletes with the highest earnings.
   - Identify the athletes who won the most (rank 1).
