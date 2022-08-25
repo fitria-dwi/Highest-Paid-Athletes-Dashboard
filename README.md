@@ -1,14 +1,13 @@
 # Highest-Paid-Athletes-Dashboard
-This project was made as a final project at Generasi GIGIH 2.0 by Yayasan Anak Bangsa Bisa and GoTo.
 
-**Objective**: Created a dashboard to show meaningful insight
-to the audience.
+- Created by Fitria Dwi Wulandari
 
-**Actions**: Added complementary data, namely country code
-data for each athletes country.
+- **Objective**:
+  - Identify the athletes with the highest earnings over time.
+  - Identify the top ten athletes with the highest earnings.
+  - Identify the athletes who won the most (rank 1).
+  - Identify the average earning of the athletes.
 
-**Tools**: Google Data Studio.
+- **Tools**: Google Sheets and Google Data Studio.
+- Click on [this](https://datastudio.google.com/reporting/e9c57374-6d18-413c-8166-cdea16f67c80) if you would like to go further to the dashboard
 
-**Data source**: https://www.kaggle.com/datasets/darinhawley/forbes-high-paid-athletes-19902021
-
-**Full Document**: https://datastudio.google.com/reporting/e9c57374-6d18-413c-8166-cdea16f67c80
